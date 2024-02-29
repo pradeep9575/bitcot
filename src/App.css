@@ -1,0 +1,47 @@
+#main{
+
+height: auto;
+
+border: 1px solid black;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-wrap: wrap;
+gap: 2vh;
+margin-bottom: 3vh;
+padding-top: 10px;
+    
+}
+form{
+
+    height: 30vh;
+    width: 30%;
+    margin: auto;
+    border: 1px solid  black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+button{
+
+    /* margin: auto; */
+    
+}
+#navbar{
+
+    height: 60px;
+    border: 1px  solid black;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+    /* justify-content: space-between; */
+}
+.inp{
+
+    width: 130px;
+}

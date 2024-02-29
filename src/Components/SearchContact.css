@@ -1,0 +1,40 @@
+
+
+
+
+input{
+
+    
+    height: 35%;
+    outline: none;
+    border: 1px  solid  black;
+    border-radius: 2px;
+}
+
+
+#box4
+{
+
+    height: 50%;
+    width:100vw;
+    /* border: 1px  solid black; */
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2vh;
+    margin-top: 30vh;
+}
+
+#dabba{
+
+    height: auto;
+    width: auto;
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+}
+    
+    
+
+    
+    
+    
